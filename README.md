@@ -6,6 +6,7 @@ This repository showcases the various websites I have developed for clients. Due
 ## Projects
 
 ### [Physics Origin](https://physics-origin.vercel.app)
+![Physics Origin Screenshot](ss/physics-origin.png)
 **Description**:
 - Developed a comprehensive online learning ecosystem offering diverse courses and an intuitive interface.
 
@@ -16,6 +17,7 @@ This repository showcases the various websites I have developed for clients. Due
 - Made courses easily accessible to students, improved teaching efficiency for instructors, and facilitated better learning experiences through an intuitive and user-friendly platform.
 
 ### [El-Resala Platform](https://elresala-platform.vercel.app)
+![El-resala Platform Screenshot](ss/elresala-platform.png)
 **Description**:
 - Developed the front-end of an online French learning platform targeting secondary school students.
 
