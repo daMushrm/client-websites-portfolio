@@ -7,8 +7,7 @@ This repository showcases the various websites I have developed for clients. Due
 
 ### [Physics Origin](https://physics-origin.vercel.app)
 ![Physics Origin Screenshot](ss/physics-origin.png)
-**Description**:
-- Developed a comprehensive online learning ecosystem offering diverse courses and an intuitive interface.
+Developed a comprehensive online learning ecosystem offering diverse courses and an intuitive interface.
 
 **Technologies Used**:
 - React, Node.js, Next.js, PostgreSQL, PrismaORM, TailwindCSS
@@ -18,8 +17,7 @@ This repository showcases the various websites I have developed for clients. Due
 
 ### [El-Resala Platform](https://elresala-platform.vercel.app)
 ![El-resala Platform Screenshot](ss/elresala-platform.png)
-**Description**:
-- Developed the front-end of an online French learning platform targeting secondary school students.
+Developed the front-end of an online French learning platform targeting secondary school students.
 
 **Technologies Used**:
 - React, Node.js, Next.js, PostgreSQL, PrismaORM, TailwindCSS
